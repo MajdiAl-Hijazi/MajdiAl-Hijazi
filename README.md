@@ -1,3 +1,1 @@
-<p align="center">
-   <b>Hi, I'm Majdi Al-Hijazi
-<p>
+<h1 align="center">Hi, I'm Majdi Al-Hijazi 👋<h1>
