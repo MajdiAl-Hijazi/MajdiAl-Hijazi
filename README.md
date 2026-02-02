@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>👤 Majdi Al-Hijazi</h2>
+<h2>Majdi Al-Hijazi</h2>
 <p>💻 Computer Information Systems (CIS) Student</p>
 
 <br>
@@ -13,12 +13,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" />
 </a>
 
-<a href="https://youtube.com/@YOUR_YOUTUBE" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40" />
-</a>
-
-<a href="https://www.instagram.com/majdi_alhijazi?igsh=a2Q5bzljdmRneXl4" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" />
-</a>
+<a href="mailto:majdialhijazi@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40"/>
 
 </div>
