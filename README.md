@@ -1,7 +1,10 @@
 <div align="center">
 
 <h2>Majdi Al-Hijazi</h2>
-<p>💻 Computer Information Systems (CIS) Student</p>
+
+<div align="center">
+  <img src="" width="100%" />
+ </div>
 
 <br>
 
