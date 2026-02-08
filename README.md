@@ -3,7 +3,7 @@
 <h2>Majdi Al-Hijazi</h2>
 
 <div align="center">
-  <img src="https://github.com/MajdiAl-Hijazi/MajdiAl-Hijazi/blob/main/Majdi%20Al%20Hijazi%20(1).gif" width="100%" />
+  <img src="https://github.com/MajdiAl-Hijazi/MajdiAl-Hijazi/blob/main/MajdiAlHijazi.gif" width="100%" />
  </div>
 
 <br>
